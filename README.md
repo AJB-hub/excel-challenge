@@ -3,7 +3,7 @@ Organization and analysis of a database of 4,000 past Kickstarter projects for u
 
 Using excel, my goal is to identify trends in kickstarter data which would better inform an individual on what type of campaigns tend to be successful (reaching their monetary goal within a set timeframe). 
 
-From our sample of 4,000 Kickstarter campaigns, we can see that Theater, Music, and Film/Video tend to be the most successful categories, in terms of reaching their monetary goal in a set time. Clearly the type of campaign plays a key role in how successful it will be.
+From our sample of 4,000 Kickstarter campaigns, we can see that Theater, Music, and Film/Video tend to be the most successful categories, in terms of reaching their monetary goal in a set time. Campaign type plays a key role in how successful it will be.
 
 ![image](https://user-images.githubusercontent.com/12026338/112700172-e8964200-8e63-11eb-8c99-44dfa9e86035.png)
 
