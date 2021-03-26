@@ -15,7 +15,7 @@ If we look at the sub-categories of the campaigns, we can see that there are a f
 
 Plays are far more successful than other sub-categories on the platform, making Kickstarter a useful funding option for theaters. Outside of categorization, the initial monetary ask of a campaign plays into its success:
 
-![image](https://user-images.githubusercontent.com/12026338/112700197-f64bc780-8e63-11eb-8f19-213399356832.png)
+![image](https://user-images.githubusercontent.com/12026338/112700767-3f504b80-8e65-11eb-9d31-130922306587.png)
 
 The more money a campaign asks for, the less likely they are to succeed in raising the funds. Using our lines of best fit, we can estimate a goal which would optimize for the greatest amount of funds that does not increase our risk of failure. Based on the data, asking for less than $30,000 improves the odds of a campaign being successful. If we wish to include canceled campaigns in this, an ask of 20,000 or less would be a useful limiting factor. This coincides with our percentage of success being 50% at this point. Thus, any goal asking for less than this amount has more than a 50% chance of success. 
 
