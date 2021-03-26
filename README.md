@@ -1,6 +1,8 @@
 # excel-challenge
 Organization and analysis of a database of 4,000 past Kickstarter projects for useful trends. 
 
+See attached excel spreadsheet for raw data, pivot tables, and statistical analysis.
+
 Using excel, my goal is to identify trends in kickstarter data which would better inform an individual on what type of campaigns tend to be successful (reaching their monetary goal within a set timeframe). 
 
 From our sample of 4,000 Kickstarter campaigns, we can see that Theater, Music, and Film/Video tend to be the most successful categories, in terms of reaching their monetary goal in a set time. Campaign type plays a key role in how successful it will be.
